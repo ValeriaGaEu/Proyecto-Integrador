@@ -12,7 +12,7 @@ public class Hydroponicgarden {
 
     public static void main(String[] args) {
         java.awt.EventQueue.invokeLater(() -> {
-            new Login().setVisible(true);
+            new Register().setVisible(true);
         });
     }
 }
